@@ -19,7 +19,7 @@ This is what I could do so far:
 
 - Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables avaiable in the POH. Will try to improve this.
 
-- With this mod, I was able to make a flight following the power settings avaiable in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep ITT in the green, which woulndn't happen according to the POH).
+- With this mod, I was able to make a flight following the power settings avaiable in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be(it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep ITT in the green, which woulndn't happen according to the POH).
 
 There are propably a lot of other problems with this aircraft, but these are the ones I found more relevant as of now. Again, I am no expert in this kind of plane and I might be wrong in some of these findings. I'm also not a programmer and therefore my skills with software are VERY limited. So I'm open to any feedback from actual Caravan pilots, people who know how to code and of course, flight simmers who could enjoy a more realistic Caravan!
 
