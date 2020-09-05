@@ -3,13 +3,13 @@ Improvements to the Caravan engine performance in MSFS2020
 
 As you have probably noticed, the C208 in the new msfs 2020 has some problems regarding the engine behavior and performance. My RL fying experience is limited to small single engine piston aircraft, but I have made some research and talked to friends who are real life Caravan pilots and here are some of the problems I found:
 
-1 - The engine performance is way under what it should be, most visible during the take off and trying to maintain level flight during cruise.
+- The engine performance is way under what it should be, most visible during the take off and trying to maintain level flight during cruise.
 
-2 - The startup sequence isn't very accurate, but this seems to be a problem in all turboprop aircraft in msfs 2020.
+- The startup sequence isn't very accurate, but this seems to be a problem in all turboprop aircraft in msfs 2020.
 
-3 - The condition lever isn't well simulated and tagged as "mixture".
+- The condition lever isn't well simulated and tagged as "mixture".
 
-4 - The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you ahve to input more torque at cruise to keep the indicated airspeed. When checking the tables avaiable in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tryed to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
+- The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you ahve to input more torque at cruise to keep the indicated airspeed. When checking the tables avaiable in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tryed to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
 
 5 - The ITT is wrong. It doens't go as high as it should by the book, limiting the maximum torque output.
 
