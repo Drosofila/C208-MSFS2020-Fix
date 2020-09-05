@@ -16,7 +16,7 @@ This is what I could do so far:
 
 There are propably a lot of other problems with this aircraft, but these are the ones I found more relevant as of now. Again, I am no expert in this kind of plane and I might be wrong in some of these findings. I'm also not a programmer and therefore my skills with software are VERY limited. So I'm open to any feedback from actual Caravan pilots, people who know how to code and of course, flight simmers who could enjoy a more realistic Caravan!
 
-Feel free to reach out to me via discord/e-mail.
+Feel free to reach out to me via discord: Drosophila#3435
 
 -------------------- INSTALLATION -----------------------
 
