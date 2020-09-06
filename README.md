@@ -9,17 +9,19 @@ As you have probably noticed, the C208 in the new msfs 2020 has some problems re
 
 - The condition lever isn't well simulated and is tagged as "mixture".
 
-- The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you have to input more torque at cruise to keep the indicated airspeed. When checking the tables avaiable in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tried to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
+- The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you have to input more torque at cruise to keep the indicated airspeed. When checking the tables available in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tried to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
 
 - The ITT is wrong. It doens't go as high as it should by the book, so it doens't limit the maximum torque output.
 
 This is what I could do so far:
 
+VERSION 1.0:
+
 - Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a gain of performance.
 
-- Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables avaiable in the POH. Will try to improve this.
+- Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables available in the POH. Will try to improve this.
 
-- With this mod, I was able to make a flight following the power settings avaiable in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
+- With this mod, I was able to make a flight following the power settings available in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
 
 There are propably a lot of other problems with this aircraft, but these are the ones I found more relevant as of now. Again, I am no expert in this kind of plane and I might be wrong in some of these findings. I'm also not a programmer and therefore my skills with software are VERY limited. So I'm open to any feedback from actual Caravan pilots, people who know how to code and of course, flight simmers who could enjoy a more realistic Caravan!
 
