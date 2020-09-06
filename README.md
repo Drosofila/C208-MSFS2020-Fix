@@ -15,6 +15,14 @@ The ITT is wrong. It doesn't go as high as it should by the book, so it doesn't 
 
 This is what I could do so far:
 
+Change Log v1.2 beta:
+
+Engine performance tuned
+Fuel consumption tuned
+Flight model changes: I tried to tweak the flight model to increase the drag generated from the flaps, mainly when using full flaps. As I had said before, I've never flown this plane in real life and this is only based in videos/other pilots commenting on the performance of the plane. The idea is to have a flight model in which you have to rely a bit more in your engine during a full flap approach and also reduce the excessive floating of the plane during flare.
+This version is still in beta since I couldn't make a lot of test flights yet. Again, I am very new to coding and modding flight simulator aircraft, so any criticism is more than welcome.
+
+
 Change Log v1.2:
 
 Stall speeds corrected.
