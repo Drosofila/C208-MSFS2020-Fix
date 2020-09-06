@@ -37,4 +37,4 @@ C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8
 
 2. Copy the provided engines.cfg, target_performance.cfg and flight_model.cfg in the same folder.
 
-Done! If you have any problems or if you just didn't like the way the engine behaves with this mod you can simply delete this two files and copy your backups back to this folder.
+Done! If you have any problems or if you just didn't like the way the engine behaves with this mod you can simply delete this three files and copy your backups back to this folder.
