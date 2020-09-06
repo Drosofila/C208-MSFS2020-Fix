@@ -9,7 +9,7 @@ As you have probably noticed, the C208 in the new msfs 2020 has some problems re
 
 - The condition lever isn't well simulated and is tagged as "mixture".
 
-- The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you have to input more torque at cruise to keep the indicated airspeed. When checking the tables avaiable in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tryed to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
+- The fuel consumption is wrong. The actual fuel consumption of the plane isn't that far off what it should be, but since the engine is underpowered, you have to input more torque at cruise to keep the indicated airspeed. When checking the tables avaiable in the POH I found that in my cruise settings I was supposed to keep the maximum torque of ~1650 lbs/ft to maintain the indicated airspeed around 140 kt. If I tried to use this power configuration the plane would lose speed and stall. So, to keep the airspeed the way it should be, I had to input around 2100 lbs/ft of torque. This led to a higher fuel consumption.
 
 - The ITT is wrong. It doens't go as high as it should by the book, so it doens't limit the maximum torque output.
 
