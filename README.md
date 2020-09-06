@@ -17,28 +17,29 @@ This is what I could do so far:
 
 Change Log v1.2 beta:
 
-Engine performance tuned
-Fuel consumption tuned
-Flight model changes: I tried to tweak the flight model to increase the drag generated from the flaps, mainly when using full flaps. As I had said before, I've never flown this plane in real life and this is only based in videos/other pilots commenting on the performance of the plane. The idea is to have a flight model in which you have to rely a bit more in your engine during a full flap approach and also reduce the excessive floating of the plane during flare.
-This version is still in beta since I couldn't make a lot of test flights yet. Again, I am very new to coding and modding flight simulator aircraft, so any criticism is more than welcome.
+- Engine performance tuned
+- Fuel consumption tuned
+- Flight model changes: I tried to tweak the flight model to increase the drag generated from the flaps, mainly when using full flaps. As I had said before, I've never flown this plane in real life and this is only based in videos/other pilots commenting on the performance of the plane. The idea is to have a flight model in which you have to rely a bit more in your engine during a full flap approach and also reduce the excessive floating of the plane during flare.
+- This version is still in beta since I couldn't make a lot of test flights yet. Again, I am very new to coding and modding flight simulator aircraft, so any criticism is more than welcome.
 
 
 Change Log v1.2:
 
-Stall speeds corrected.
-Climb/cruise speeds corrected.
-Elevator trim actuation is now much more smooth than it was before.
-Engine Power tuned (the plane might feel a little overpowered, but I'm still fine tuning the power output).
-Fuel consumption tuned (now it's closer to what it should be, I'll try to improve it).
-AP FD GA angle reduced.
-Idle Ng corrected.
+- Stall speeds corrected.
+- Climb/cruise speeds corrected.
+- Elevator trim actuation is now much more smooth than it was before.
+- Engine Power tuned (the plane might feel a little overpowered, but I'm still fine tuning the power output).
+- Fuel consumption tuned (now it's closer to what it should be, I'll try to improve it).
+- AP FD GA angle reduced.
+- Idle Ng corrected.
+
 Change Log v1.0:
 
-Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a small gain of performance.
+- Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a small gain of performance.
 
-Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables available in the POH. Will try to improve this.
+- Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables available in the POH. Will try to improve this.
 
-With this mod, I was able to make a flight following the power settings available in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
+- With this mod, I was able to make a flight following the power settings available in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
 
 To view the change log and the features in the latest version please check "releases" on the github repository:
 
