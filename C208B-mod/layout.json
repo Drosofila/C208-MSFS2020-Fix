@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "de-DE.locPak",
+      "size": 1539,
+      "date": 132408495824770001
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1361,
+      "date": 132408495824760002
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 1486,
+      "date": 132408495824749985
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 1625,
+      "date": 132408495824780001
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 1411,
+      "date": 132408495824790287
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 1653,
+      "date": 132408495824760002
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 1452,
+      "date": 132408495824749985
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 2440,
+      "date": 132408495824770001
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/engines.cfg",
+      "size": 15668,
+      "date": 132336642360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/flight_model.cfg",
+      "size": 18689,
+      "date": 132398223190000000
+    }
+  ]
+}
