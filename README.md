@@ -15,17 +15,19 @@ The ITT is wrong. It doesn't go as high as it should by the book, so it doesn't 
 
 This is what I could do so far:
 
-Change Log v1.2 beta:
-
-- Engine performance tuned
-- Fuel consumption tuned
-- Flight model changes: I tried to tweak the flight model to increase the drag generated from the flaps, mainly when using full flaps. As I had said before, I've never flown this plane in real life and this is only based in videos/other pilots commenting on the performance of the plane. The idea is to have a flight model in which you have to rely a bit more in your engine during a full flap approach and also reduce the excessive floating of the plane during flare.
-- This version is still in beta since I couldn't make a lot of test flights yet. Again, I am very new to coding and modding flight simulator aircraft, so any criticism is more than welcome.
-
-
 Change Log v1.2:
 
+- Engine performance tuned.
+- Fuel consumption tuned.
+- Flight model changes: I tried to tweak the flight model to increase the drag generated from the flaps, mainly when using full flaps.
+- Corrected Ng values at idle power with condition lever at high idle and low idle.
 - Stall speeds corrected.
+- Propeller angles corrected in the engines.cfg file but the propeller won't feather at all.
+- Now you can install it the right way via the "Community" folder (I think it's working).
+
+
+Change Log v1.1:
+
 - Climb/cruise speeds corrected.
 - Elevator trim actuation is now much more smooth than it was before.
 - Engine Power tuned (the plane might feel a little overpowered, but I'm still fine tuning the power output).
@@ -51,8 +53,12 @@ Feel free to reach out to me via discord if you have any suggestions: Drosophila
 
 -------------------- INSTALLATION -----------------------
 
-Make a backup of the engines.cfg, target_performance.cfg and flight_model.cfg in the folder: C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Official\OneStore\asobo-aircraft-208b-grand-caravan-ex\SimObjects\Airplanes\Asobo_208B_GRAND_CARAVAN_EX (I believe that for the Steam users the FlightSimulator_xxxxxx folder should be in your steam games library folder)
+Copy the folder "C208B-mod" to your community folder. 
 
-Copy the provided engines.cfg, target_performance.cfg and flight_model.cfg in the same folder.
+If you're using Gamepass/Windows Store the path should be:
+C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
-Done! If you have any problems or if you just didn't like the way the engine behaves with this mod you can simply delete this three files and copy your backups back to this folder.
+For the Steam version I'm not sure but it should be something like:
+C:\Users\YourUsename\AppData\Local\Packages\Microsoft.FlightDashboard_8wekyb3d8bbwe\LocalCache\Packages\Community
+
+Done! If you have any problems or if you just didn't like the way the plane behaves with this mod you can simply delete this file from the "Community" folder.
