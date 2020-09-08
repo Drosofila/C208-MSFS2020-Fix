@@ -15,7 +15,7 @@ The ITT is wrong. It doesn't go as high as it should by the book, so it doesn't 
 
 This is what I could do so far:
 
-Change Log v1.2:
+Change Log v0.3:
 
 - Engine performance tuned.
 - Fuel consumption tuned.
@@ -26,7 +26,7 @@ Change Log v1.2:
 - Now you can install it the right way via the "Community" folder (I think it's working).
 
 
-Change Log v1.1:
+Change Log v0.2:
 
 - Climb/cruise speeds corrected.
 - Elevator trim actuation is now much more smooth than it was before.
@@ -35,7 +35,7 @@ Change Log v1.1:
 - AP FD GA angle reduced.
 - Idle Ng corrected.
 
-Change Log v1.0:
+Change Log v0.1:
 
 - Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a small gain of performance.
 
