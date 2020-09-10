@@ -17,13 +17,13 @@ This is what I could do so far:
 
 Changelog v0.3.1:
 
-- Idle power tuned, the plane now shouldn't start mmoving so easily when you release the brakes.
+- Idle power tuned, the plane now shouldn't start moving so easily when you release the brakes.
 - Engine power tuned.
 - Fuel consumption tuned.
 - Flight Model tuned.
 - Now when you start a flight with the plane in the "cold and dark" state the condition lever is in the CUTOFF position intead of the HIGH IDLE position.
 - When you start the flight with the plane in "cold and dark" the propeller is feathered* (read note below) as it should be, but instead of slowly moving to the right angle during engine start as the oil pressure builds up, it just moves when you move the prop lever to max before start, even when the engine is off (this is a problem that will try to solve later, but it might require some custom coding to work the way it should).
-- Increased the range that the prop lever control the prop rpm in an attempt to get it to feather, now you can reduce it to around 200 RPM. This is still a work in progress.
+- Increased the range that the prop lever control the prop rpm in an attempt to get it to feather, and now you can reduce it to around 200 RPM. This is still a work in progress.
 - Got the reverse thrust working. It might be overpowered or underpowered though, I'll adjust it in the next updates, but now it works :-).
 
 * The prop still won't feather. I can get it to move to an angle that is close to what the feather angle should be but it still doesn't feather, the only thing you can do is reduce a lot the RPM. I'll keep trying to improve this.
