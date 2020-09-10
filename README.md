@@ -29,7 +29,7 @@ Changelog v0.3.1:
 * The prop still won't feather. I can get it to move to an angle that is close to what the feather angle should be but it still doesn't feather, the only thing you can do is reduce a lot the RPM. I'll keep trying to improve this.
 Some other things to keep in mind:
 - The beta range (before the reverse) doesn't really do anything now.
-- Fuel consumption and climb/cruise power seem to be working the way they should according to the POH I use as reference, but if you notice any anormalities or bugs please feel free to open an issue or contact me.
+- Fuel consumption and climb/cruise power seem to be working the way they should according to the POH I use as reference, but if you notice any abnormalities or bugs please feel free to open an issue or contact me.
 
 Changelog v0.3:
 
