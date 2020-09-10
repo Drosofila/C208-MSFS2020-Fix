@@ -49,6 +49,11 @@
       "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/flight_model.cfg",
       "size": 18689,
       "date": 132398223190000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/apron.FLT",
+      "size": 2887,
+      "date": 132314382060000000
     }
   ]
 }
