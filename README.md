@@ -5,6 +5,13 @@ As you have probably noticed, the C208 in the new msfs 2020 has some problems re
 
 This is what I could do so far:
 
+Changelog v0.3.2:
+
+- Adjusted the fuel consumption that was too high. Now it's closer to what it whould be at least in the altitudes and settings I've tested, please let me know if you find any problems, I'm still trying to understand how to adjust the fuel parameters.
+- The prop doesn't start in the feathered angle anymore when the plane is off at the ramp. The blade angle changing even when the engine is shutdown is unrealistic, so I decided not to change this until I can find a way to properly simulate the propeller governor/feathering.
+- Adjusted the values of Torque, Ng, ITT and FF during engine start to match the values of the real plane. Not the exact same values but I think it's pretty close. Thanks to Trevor for all the information and feedback he is providing.
+
+
 Changelog v0.3.1:
 
 - Idle power tuned, the plane now shouldn't start moving so easily when you release the brakes.
