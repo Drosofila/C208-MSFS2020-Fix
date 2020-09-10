@@ -15,7 +15,23 @@ The ITT is wrong. It doesn't go as high as it should by the book, so it doesn't 
 
 This is what I could do so far:
 
-Change Log v0.3:
+Changelog v0.3.1:
+
+- Idle power tuned, the plane now shouldn't start mmoving so easily when you release the brakes.
+- Engine power tuned.
+- Fuel consumption tuned.
+- Flight Model tuned.
+- Now when you start a flight with the plane in the "cold and dark" state the condition lever is in the CUTOFF position intead of the HIGH IDLE position.
+- When you start the flight with the plane in "cold and dark" the propeller is feathered* (read note below) as it should be, but instead of slowly moving to the right angle during engine start as the oil pressure builds up, it just moves when you move the prop lever to max before start, even when the engine is off (this is a problem that will try to solve later, but it might require some custom coding to work the way it should).
+- Increased the range that the prop lever control the prop rpm in an attempt to get it to feather, now you can reduce it to around 200 RPM. This is still a work in progress.
+- Got the reverse thrust working. It might be overpowered or underpowered though, I'll adjust it in the next updates, but now it works :-).
+
+* The prop still won't feather. I can get it to move to an angle that is close to what the feather angle should be but it still doesn't feather, the only thing you can do is reduce a lot the RPM. I'll keep trying to improve this.
+Some other things to keep in mind:
+- The beta range (before the reverse) doesn't really do anything now.
+- Fuel consumption and climb/cruise power seem to be working the way they should according to the POH I use as reference, but if you notice any anormalities or bugs please feel free to open an issue or contact me.
+
+Changelog v0.3:
 
 - Engine performance tuned.
 - Fuel consumption tuned.
@@ -26,7 +42,7 @@ Change Log v0.3:
 - Now you can install it the right way via the "Community" folder (I think it's working).
 
 
-Change Log v0.2:
+Changelog v0.2:
 
 - Climb/cruise speeds corrected.
 - Elevator trim actuation is now much more smooth than it was before.
@@ -35,7 +51,7 @@ Change Log v0.2:
 - AP FD GA angle reduced.
 - Idle Ng corrected.
 
-Change Log v0.1:
+Changelog v0.1:
 
 - Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a small gain of performance.
 
