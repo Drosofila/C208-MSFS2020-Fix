@@ -5,6 +5,10 @@ As you have probably noticed, the C208 in the new msfs 2020 has some problems re
 
 This is what I could do so far:
 
+Changelog v0.3.3:
+
+- Fixed a bug with ITT/Torque during takeoff.
+
 Changelog v0.3.2:
 
 - Adjusted the fuel consumption that was too high. Now it's closer to what it should be at least in the altitudes and settings I've tested, please let me know if you find any problems, I'm still trying to understand how to adjust the fuel parameters.
