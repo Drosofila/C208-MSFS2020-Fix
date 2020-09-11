@@ -50,6 +50,11 @@
       "size": 18689,
       "date": 132398223190000000
     },
+	{
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/systems.cfg",
+      "size": 14740,
+      "date": 132442764530000000
+    },
     {
       "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/apron.FLT",
       "size": 2887,
