@@ -1,9 +1,22 @@
 # C208-MSFS2020-Fix
 Improvements to the Caravan engine performance in MSFS2020
 
-As you have probably noticed, the C208 in the new msfs 2020 has some problems regarding the engine behavior and performance. My RL flying experience is limited to small single engine piston aircraft, but I have made some research and talked to people who are real life Caravan pilots and I'm trying to improve the aircraft.
+An update about the project: at first my intention was only to increase the engine power, but I ended up doing some extra changes. As I have said before, I'm not a programmer, just a student pilot who likes flight simulation. With the help of fellow pilots we were able to correct some of the problems:
 
-This is what I could do so far:
+- The engine parameters during start are more accurate now.
+- The engine power was increased.
+- Now the reverse works.
+- The plane performs closer to what it should by the POH regarding the climb and cruise speeds.
+
+limitations:
+	- The propeller doesn't start feathered as it should (actually it doesn't feather at all).
+	- The G1000 instruments aren't as functional as they should be.
+	- The turboprop engine logic seems to be badly simulated in MSFS2020 (hopefully this will be fixed by Asobo in future updates).
+	- While I was able to tune the fuel consumption so it can be more realistic, it still isn't as accurate as it should be. At lower altitudes the consumption is a little lower than it should be, but at higher altitudes (mainly above FL180) there's almost no difference in the fuel flow and it burns like it does at lower altitudes. So at higher altitudes the consumption is actually a little higher than it should be.
+
+While I do understand a little about coding, fixing the problems I described above is a task far beyond my skills. I still intend to release some updates to the cockpit textures and some minor fixes to my modifications, but I don't think I can do much more about the aircraft. That being said, this is an open source project and you're more than welcome to make your own changes to the files I uploaded here. Thanks for taking the time to use my mod, this is the first time I do something like this.
+	
+
 
 Changelog v0.3.3:
 
