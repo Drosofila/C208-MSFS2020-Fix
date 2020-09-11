@@ -8,7 +8,7 @@ An update about the project: at first my intention was only to increase the engi
 - Now the reverse works.
 - The plane performs closer to what it should by the POH regarding the climb and cruise speeds.
 
-limitations:
+limitations/Known issues:
 
 - The propeller doesn't start feathered as it should (actually it doesn't feather at all).
 
