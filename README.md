@@ -1,6 +1,8 @@
 # C208-MSFS2020-Fix
 Improvements to the Caravan engine performance in MSFS2020
 
+Unfortunately after the latest update Asobo changed some things about the plane that aren't working well with my mod. I've been trying to fix it but I don't think I'll have much time in the next couple of weeks. I was making some progress in the avionics/pfd problem during start but they changed the electrical system logic so now I have to start again. I'll update the files in the master branch meanwhile so other people can test it as well.
+
 An update about the project: at first my intention was only to increase the engine power, but I ended up doing some extra changes. As I have said before, I'm not a programmer, just a student pilot who likes flight simulation. With the help of fellow pilots we were able to correct some of the problems:
 
 - The engine parameters during start are more accurate now.
