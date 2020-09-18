@@ -21,7 +21,20 @@ limitations/Known issues:
 - While I was able to tune the fuel consumption so it can be more realistic, it still isn't as accurate as it should be. At lower altitudes the consumption is a little lower than it should be, but at higher altitudes (mainly above FL180) there's almost no difference in the fuel flow and it burns like it does at lower altitudes. So at higher altitudes the consumption is actually a little higher than it should be.
 
 While I do understand a little about coding, fixing the problems I described above is a task far beyond my skills. I still intend to release some updates to the cockpit textures and some minor fixes to my modifications, but I don't think I can do much more about the aircraft. That being said, this is an open source project and you're more than welcome to make your own changes to the files I uploaded here. Thanks for taking the time to use my mod, this is the first time I do something like this.
-	
+
+Changelog v0.3.5:
+
+- DELETE THE PREVIOUS VERSION OF THE MOD AND THEN INSTALL THIS ONE.
+- The mod should work well with the latest version of MSFS.
+- The Ng text indicator in the G1000 MFD now displays unit by unit (before it displayed every 10%).
+- Now you have to actually move the condition lever close to the LOW IDLE position in order to get fuel flow during start.
+- Ng, ITT and TRQ values during start tuned.
+- Fuel consumption: this is a problem that has been very hard to deal with. As you may know, in the previous version of MSFS the available TRQ actually increased in higher flight levels, which is, to say the least, a bit odd. This seems to be fixed in this new patch, so I reworked the consumption modifications I had made, and corrected the power (or brake) specific fuel consumption of the engine. In my test flights I had a little lower fuel consumption than the predicted in the POH. It seems acceptable to me for now.
+- PFD Screens during start: In the normal start procedures you should turn the avionics 1 switch on, which should bring the left PFD on in reversionary mode (with the engine parameters in the left). After engine start you should switch on the avionics 2 and then the MFD and right PFD should turn on and the left PFD should go back to normal mode. However it looks like there's no working reversionary mode in the MSFS G1000 yet, so there's not much I can do about it for now. After the update the avionics 1 (without my mod) would turn on both PFD screens but not the MFD, which would turn on only after the avionics 2 switch was turned on. So, in order to make everyone able to at least follow the correct flight procedures I changed it back to the way it was - Avionics 1 switch turns right PFD and MFD on and Avionics 2 switch turns left PFD on. This way you can have the engine parameters indicators during start and only turn the avionics 2 on after start.
+- Engine power tuned.
+- Reverse power tuned.
+- Ng to TRQ table tuned.
+
 Changelog v0.3.4:
 
 - Yaw damper is now functional thanks to D33pfield.
