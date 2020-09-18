@@ -20,7 +20,7 @@ An update about the project: at first my intention was only to increase the engi
 
 While I do understand a little about coding, fixing the problems I described above is a task far beyond my skills. I still intend to release some updates to the cockpit textures and some minor fixes to my modifications, but I don't think I can do much more about the aircraft. That being said, this is an open source project and you're more than welcome to make your own changes to the files I uploaded here. Thanks for taking the time to use my mod, this is the first time I do something like this.
 
-***I higly recommend you use the following mods:***
+***I highly recommend you use the following mods:***
 
 - [Working-Title G1000 mod](https://github.com/Working-Title-MSFS-Mods/fspackages) by Working Title.
 - [msfs_pfd_color_modification](https://github.com/guifarias31/msfs_pfd_color_modification) by guifarias31.
