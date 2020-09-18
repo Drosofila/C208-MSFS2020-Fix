@@ -4,8 +4,9 @@
   
   <Instrument>
     <Name>AS1000_PFD</Name>
-    <SyntheticVision>True</SyntheticVision>
+    <SyntheticVision>False</SyntheticVision>
 	<RadarAltitude>True</RadarAltitude>
+	<AvionicsKnobIndex>30</AvionicsKnobIndex>
     <Electric>
 		<Or>
 			<Simvar name="CIRCUIT ON:28" unit="Boolean"/>
@@ -14,15 +15,16 @@
     </Electric>
   </Instrument>
   
-  <!-- Second PFD
+ 
   <Instrument>
     <Name>AS1000_PFD_2</Name>
     <SyntheticVision>True</SyntheticVision>
+	<AvionicsKnobIndex>30</AvionicsKnobIndex>
     <Electric>
 		<Simvar name="CIRCUIT ON:29" unit="Boolean"/>
     </Electric>
   </Instrument>
-  -->
+
   
   <Instrument>
     <Name>AS1000_MFD</Name>
