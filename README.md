@@ -20,7 +20,7 @@ limitations/Known issues:
 
 While I do understand a little about coding, fixing the problems I described above is a task far beyond my skills. I still intend to release some updates to the cockpit textures and some minor fixes to my modifications, but I don't think I can do much more about the aircraft. That being said, this is an open source project and you're more than welcome to make your own changes to the files I uploaded here. Thanks for taking the time to use my mod, this is the first time I do something like this.
 
-Changelog v0.3.5:
+Changelog v0.4.0:
 
 - DELETE THE PREVIOUS VERSION OF THE MOD AND THEN INSTALL THIS ONE.
 - The mod should work well with the latest version of MSFS.
