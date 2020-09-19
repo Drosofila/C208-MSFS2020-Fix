@@ -25,6 +25,8 @@ While I do understand a little about coding, fixing the problems I described abo
 - [Working-Title G1000 mod](https://github.com/Working-Title-MSFS-Mods/fspackages) by Working Title.
 - [msfs_pfd_color_modification](https://github.com/guifarias31/msfs_pfd_color_modification) by guifarias31.
 
+**To download the latest version you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.1/C208B-mod.v0.4.1.rar) or click on the latest release in the "Releases" tab at the right side of the page.**
+
 Changelog v0.4.1:
 
 - Fixed some bugs to make it compatible with the [Working-Title G1000 mod](https://github.com/Working-Title-MSFS-Mods/fspackages) and the [msfs_pfd_color_modification](https://github.com/guifarias31/msfs_pfd_color_modification).
@@ -115,14 +117,14 @@ Feel free to reach out to me via discord if you have any suggestions: Drosophila
 
 Here's a improvement mod for the TBM930 by guifarias31: https://github.com/guifarias31/msfs_tbm930_project
 
--------------------- INSTALLATION -----------------------
+***INSTALLATION***
 
-Copy the folder "C208B-mod" to your community folder. 
+Copy the folder "C208B-mod" to your MSFS Community folder. 
 
 If you're using Gamepass/Windows Store the path should be:
 C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
 For the Steam version I'm not sure but it should be something like:
-C:\Users\YourUsename\AppData\Local\Packages\Microsoft.FlightDashboard_8wekyb3d8bbwe\LocalCache\Packages\Community
+C:\Users\YourUserName\AppData\Local\Packages\Community
 
 Done! If you have any problems or if you just didn't like the way the plane behaves with this mod you can simply delete this file from the "Community" folder.
