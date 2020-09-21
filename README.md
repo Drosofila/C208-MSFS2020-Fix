@@ -27,6 +27,11 @@ While I do understand a little about coding, fixing the problems I described abo
 
 **To download the latest version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.1/C208B-mod.v0.4.1.rar) or click on the latest release in the "Releases" tab at the right side of the page.**
 
+Changelog v0.4.2:
+
+- PFD horizon default is back to synthetic vision on so those who don't have Working Title's G1000 mod installed can use it as well. (but I strongly recommend you download the mod, it's great!).
+- Corrected some wrong textures in the de-ice system. "FLUD CONTROL" changed to "FLUID CONTROL" and "HORN" changed to "NORM".
+
 Changelog v0.4.1:
 
 - Fixed some bugs to make it compatible with the [Working-Title G1000 mod](https://github.com/Working-Title-MSFS-Mods/fspackages) and the [msfs_pfd_color_modification](https://github.com/guifarias31/msfs_pfd_color_modification).
