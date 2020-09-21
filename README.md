@@ -25,7 +25,7 @@ While I do understand a little about coding, fixing the problems I described abo
 - [Working-Title G1000 mod](https://github.com/Working-Title-MSFS-Mods/fspackages) by Working Title.
 - [msfs_pfd_color_modification](https://github.com/guifarias31/msfs_pfd_color_modification) by guifarias31.
 
-**To download the latest version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.1/C208B-mod.v0.4.1.rar) or click on the latest release in the "Releases" tab at the right side of the page.**
+**To download the latest version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.2/C208B-mod.v0.4.2.zip) or click on the latest release in the "Releases" tab at the right side of the page.**
 
 Changelog v0.4.2:
 
