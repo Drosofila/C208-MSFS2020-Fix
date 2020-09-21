@@ -125,6 +125,6 @@ If you're using Gamepass/Windows Store the path should be:
 C:\Users\YourUsername\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
 For the Steam version I'm not sure but it should be something like:
-C:\Users\YourUserName\AppData\Local\Packages\Community
+...SteamLibrary\SteamApps\common\MicrosoftFlightSimulator\Packages\Community
 
 Done! If you have any problems or if you just didn't like the way the plane behaves with this mod you can simply delete this file from the "Community" folder.
