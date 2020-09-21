@@ -4,7 +4,7 @@
   
   <Instrument>
     <Name>AS1000_PFD</Name>
-    <SyntheticVision>False</SyntheticVision>
+    <SyntheticVision>True</SyntheticVision>
 	<RadarAltitude>True</RadarAltitude>
 	<AvionicsKnobIndex>30</AvionicsKnobIndex>
     <Electric>
@@ -692,7 +692,7 @@
 			<And>
 				<Lower>
 					<TimeSinceStart/>
-					<Constant>30000</Constant>
+					<Constant>20</Constant>
 				</Lower>
 				<InstrumentWasOff/>
 			</And>
@@ -706,7 +706,7 @@
 			<And>
 				<Greater>
 					<TimeSinceStart/>
-					<Constant>30000</Constant>
+					<Constant>15</Constant>
 				</Greater>
 				<InstrumentWasOff/>
 			</And>
