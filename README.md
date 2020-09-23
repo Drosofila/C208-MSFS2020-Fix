@@ -135,4 +135,4 @@ For the Steam version I'm not sure but it should be something like:
 
 Done! If you have any problems or if you just didn't like the way the plane behaves with this mod you can simply delete this file from the "Community" folder.
 
-This modification is open source and available to everyone for downloading, using and even modifying the files. However, if you wish to buy me a cup of coffee, feel free to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DRFGS8WLVY9MG&currency_code=BRL&source=url).
+This modification is open source and available to everyone for downloading, using and even modifying the files.
