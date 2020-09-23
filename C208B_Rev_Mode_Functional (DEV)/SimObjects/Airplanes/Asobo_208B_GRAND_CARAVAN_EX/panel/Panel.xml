@@ -35,10 +35,9 @@
     </Electric>
   </Instrument>
 
-  <Logic>
+  <Logic> <!--This section enables Reversionary mode-->
 	<Handler>Systems_AS1000</Handler>
 	<PFD>AS1000_PFD</PFD>
-	<PFD_2>AS1000_PFD_2</PFD_2>
 	<MFD>AS1000_MFD</MFD>
   </Logic>
   
