@@ -22,7 +22,11 @@ While I do understand a little about coding, fixing the problems I described abo
 
 ## ***DOWNLOAD***
 
-**To download the latest stable version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.2/C208B-mod.v0.4.2.zip) or click on the latest release in the "Releases" tab at the right side of the page.**
+**To download the latest stable version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.3/C208B-mod-v0.4.3.zip) or click on the latest release in the "Releases" tab at the right side of the page.**
+
+***Changelog v0.4.3***
+
+- Added Uwajimaya light mod. Thanks to Uwajimaya and D33pfield for the help.
 
 ***Changelog v0.4.2:***
 
