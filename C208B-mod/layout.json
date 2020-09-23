@@ -41,6 +41,31 @@
       "date": 132408495824770001
     },
     {
+      "path": "Effects/LIGHT_C208_Landing.fx",
+      "size": 1158,
+      "date": 1600122973497
+    },
+    {
+      "path": "Effects/LIGHT_C208_NavigationGreen.fx",
+      "size": 1159,
+      "date": 1600643925562
+    },
+    {
+      "path": "Effects/LIGHT_C208_NavigationRed.fx",
+      "size": 1156,
+      "date": 1600643913954
+    },
+    {
+      "path": "Effects/LIGHT_C208_StrobeSimple.fx",
+      "size": 1157,
+      "date": 1600616959945
+    },
+    {
+      "path": "Effects/LIGHT_C208_Taxi.fx",
+      "size": 1206,
+      "date": 1600124211707
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX/engines.cfg",
       "size": 15668,
       "date": 132336642360000000
