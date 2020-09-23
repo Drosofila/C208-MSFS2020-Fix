@@ -26,7 +26,7 @@ While I do understand a little about coding, fixing the problems I described abo
 
 ***Changelog v0.4.3***
 
-- Added Uwajimaya light mod. Thanks to Uwajimaya and D33pfield for the help.
+- Added [Uwajimaya's](https://uwajimaya.github.io/FS2020/) light mod. Thanks to Uwajimaya and D33pfield for the help.
 
 ***Changelog v0.4.2:***
 
