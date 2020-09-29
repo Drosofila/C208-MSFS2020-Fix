@@ -1,7 +1,7 @@
 # C208-MSFS2020-Fix
 Improvements to the Caravan engine performance in MSFS2020
 
-An update about the project: at first my intention was only to increase the engine power, but I ended up doing some extra changes. As I have said before, I'm not a programmer, just a student pilot who likes flight simulation. With the help of fellow pilots we were able to correct some of the problems.
+## Hi everyone, this mod has become way more known than I predicted, and it started as just an attempt to improve the engine power. Of course the aircraft still has a lot of problems that need to be fixed, and I'm really sorry but I don't think I can solve most of them. I did what I could and I won't be having much time to work with the mod in the next weeks. Anyone who can make any improvements is welcome to submit a pull request or even clone the repository and make your own changes. Even if I had more time, I'm still terrible at coding and there's not much documentation available for the SDK. So that's all I can do for now. Sorry again and thanks for using the mod.
 
 ## **limitations/Known issues:**
 
