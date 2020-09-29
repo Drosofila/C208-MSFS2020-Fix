@@ -1,9 +1,10 @@
-# C208-MSFS2020-Fix
-Improvements to the Caravan engine performance in MSFS2020
+# ATTENTION
 
-## Hi everyone, this mod has become way more known than I predicted, and it started as just an attempt to improve the engine power. Of course the aircraft still has a lot of problems that need to be fixed, and I'm really sorry but I don't think I can solve most of them. I did what I could and I won't be having much time to work with the mod in the next weeks. Anyone who can make any improvements is welcome to submit a pull request or even clone the repository and make your own changes. Even if I had more time, I'm still terrible at coding and there's not much documentation available for the SDK. So that's all I can do for now. Sorry again and thanks for using the mod.
+## *Hi everyone, this mod has become way more known than I predicted, and it started as just an attempt to improve the engine power. Of course the aircraft still has a lot of problems that need to be fixed, and I'm really sorry but I don't think I can solve most of them. I did what I could and I won't be having much time to work with the mod in the next weeks. Even if I had more time, I'm still a terrible programmer and just a mediocre pilot, and I really can't make the project reach the quality level I'd like to with only my skills. I have actually done a lot more than I thought I'd be able to. So that's all I can do for now, I'm closing the issues/pull requests as I won't be working in the project anymore. That being said, I own nothing posted here and this is an open source project, which means that anyone can clone the repository or change the files and there's no need to have my permission or give me credits for the work I've done. Sorry again and thanks for using the mod.*
 
 ## **limitations/Known issues:**
+
+- The anti-ice system is not simulated.
 
 - The propeller doesn't start feathered as it should (actually it doesn't feather at all).
 
@@ -11,9 +12,7 @@ Improvements to the Caravan engine performance in MSFS2020
 
 - The turboprop engine logic seems to be badly simulated in MSFS2020 (hopefully this will be fixed by Asobo in future updates).
 
-- ~~I was able to tune the fuel consumption so it can be more realistic, but it still isn't as accurate as it should be. At lower altitudes the consumption is a little lower than it should be, but at higher altitudes (mainly above FL180) there's almost no difference in the fuel flow and it burns like it does at lower altitudes. So at higher altitudes the consumption is actually a little higher than it should be.~~ I reworked the fuel consumption parameters after the latest MSFS update and got it working in somewhat acceptable levels.
-
-While I do understand a little about coding, fixing the problems I described above is a task far beyond my skills. I still intend to release some updates to the cockpit textures and some minor fixes to my modifications, but I don't think I can do much more about the aircraft. That being said, this is an open source project and you're more than welcome to make your own changes to the files I uploaded here. Thanks for taking the time to use my mod, this is the first time I do something like this.
+- A LOT of other shit I can't fix.
 
 ## ***I highly recommend you use the following mods:***
 
@@ -109,14 +108,7 @@ Some other things to keep in mind:
 
 - Improved the Ng% -> Torque ratio so it delivers more torque with less Ng%, which resulted in a small gain of performance.
 
-- Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables available in the POH. Will try to improve this.
-
-- With this mod, I was able to make a flight following the power settings available in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
-
-
-There are probably a lot of other problems with this aircraft, but these are the ones I found more relevant as of now. Again, I am no expert in this kind of plane and I might be wrong in some of these findings. I'm also not a programmer and therefore my skills with software are VERY limited. So I'm open to any feedback from actual Caravan pilots, people who know how to code and of course, flight simmers who could enjoy a more realistic Caravan!
-
-Feel free to reach out to me via discord if you have any suggestions: Drosophila#3435
+- Improved the Fuel Flow of the aircraft. I'm still doing test flights and as of now it consumes around 100 lbs of fuel less than it should in a flight as per the tables available in the POH.
 
 Here's a improvement mod for the TBM930 by guifarias31: https://github.com/guifarias31/msfs_tbm930_project
 
