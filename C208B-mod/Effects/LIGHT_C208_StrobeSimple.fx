@@ -30,8 +30,8 @@ Z Offset=0.0, 0.0
 [Particle.0]
 Lifetime=0.01, 0.01
 Type=19
-X Scale=0.14, 0.14
-Y Scale=0.14, 0.14
+X Scale=0.15, 0.15
+Y Scale=0.15, 0.15
 Z Scale=0.0, 0.0
 X Scale Rate=0.0, 0.0
 Y Scale Rate=0.0, 0.0
@@ -128,6 +128,17 @@ NearEndFade= 1.0
 NearFade=6.0
 MinProjSize= 0.4
 
+[LightAttributes.1]
+Type=spot
+Size=0.0
+Range=60.0
+Intensity=0
+Softness=0.0
+SpotInner=50.0
+SpotOuter=90.0
+Volumetric=1
+ScatDir=0.0
+
 [Emitter.2]
 Lifetime=0.0, 0.0
 Delay=0.0, 0.0
@@ -183,6 +194,16 @@ NearEndFade= 1.0
 NearFade=6.0
 MinProjSize= 0.4
 
+[LightAttributes.2]
+Type=spot
+Size=0.0
+Range=60.0
+Intensity=0
+Softness=0.0
+SpotInner=50.0
+SpotOuter=90.0
+Volumetric=1
+ScatDir=0.0
 
 [Emitter.3]
 Lifetime=0.0, 0.0
@@ -239,6 +260,15 @@ NearEndFade= 1.0
 NearFade=6.0
 MinProjSize= 0.4
 
-
+[LightAttributes.3]
+Type=spot
+Size=0.0
+Range=60.0
+Intensity=0
+Softness=0.0
+SpotInner=50.0
+SpotOuter=90.0
+Volumetric=1
+ScatDir=0.0
 
 
